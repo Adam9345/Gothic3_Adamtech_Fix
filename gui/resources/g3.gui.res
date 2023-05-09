@@ -15080,11 +15080,11 @@
 				GUI.Window.Font.OutPrecision="0"
 				GUI.Window.Font.PitchAndFamiliy="0"
 				GUI.Window.Font.Quality="0"
-				GUI.Window.Font.Weight="400"
+				GUI.Window.Font.Weight="700"
 				GUI.Window.Font.Width="0"
 				GUI.Window.ID="20450"
 				GUI.Window.Name="Benoetigtes Jadggeschick: 150"
-				GUI.Window.Placement="8,96,280,146"
+				GUI.Window.Placement="4,96,284,156"
 				GUI.Window.Style="268435456"
 			>
 			</window>
@@ -15098,7 +15098,7 @@
 				GUI.Window.Font.Italic="0"
 				GUI.Window.Font.OutPrecision="0"
 				GUI.Window.Font.PitchAndFamiliy="0"
-				GUI.Window.Font.Quality="0"
+				GUI.Window.Font.Quality="1"
 				GUI.Window.Font.Weight="400"
 				GUI.Window.Font.Width="0"
 				GUI.Window.ID="20449"
@@ -16152,7 +16152,7 @@
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20379"
 				GUI.Window.Name="Quickslots"
-				GUI.Window.Placement="252,667,772,723"
+				GUI.Window.Placement="252,687,772,743"
 				GUI.Window.Style="268435461"
 			>
 			</window>
@@ -17312,8 +17312,8 @@
 				GUI.Window.Class="ListCtrl"
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20366"
-				GUI.Window.Name="Generic Window"
-				GUI.Window.Placement="320,344,608,392"
+				GUI.Window.Name="Other Window"
+				GUI.Window.Placement="320,334,608,432"
 				GUI.Window.Style="268436484"
 			>
 			</window>
@@ -17335,7 +17335,7 @@
 				GUI.Window.Class="ListCtrl"
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20365"
-				GUI.Window.Name="Generic Window"
+				GUI.Window.Name="Alchemy Window"
 				GUI.Window.Placement="320,184,608,280"
 				GUI.Window.Style="268436484"
 			>
@@ -17358,7 +17358,7 @@
 				GUI.Window.Class="ListCtrl"
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20364"
-				GUI.Window.Name="Generic Window"
+				GUI.Window.Name="Thieft Window"
 				GUI.Window.Placement="320,44,608,140"
 				GUI.Window.Style="268436484"
 			>
@@ -17381,7 +17381,7 @@
 				GUI.Window.Class="ListCtrl"
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20363"
-				GUI.Window.Name="Generic Window"
+				GUI.Window.Name="Smithing Window"
 				GUI.Window.Placement="12,532,300,580"
 				GUI.Window.Style="268436484"
 			>
@@ -17423,7 +17423,7 @@
 				GUI.Window.Class="ListCtrl"
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20361"
-				GUI.Window.Name="Generic Window"
+				GUI.Window.Name="Magic Window"
 				GUI.Window.Placement="12,380,300,476"
 				GUI.Window.Style="268436484"
 			>
@@ -17446,7 +17446,7 @@
 				GUI.Window.Class="ListCtrl"
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20360"
-				GUI.Window.Name="Generic Window"
+				GUI.Window.Name="Hunting Window"
 				GUI.Window.Placement="12,232,300,328"
 				GUI.Window.Style="268436484"
 			>
@@ -17469,7 +17469,7 @@
 				GUI.Window.Class="ListCtrl"
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20359"
-				GUI.Window.Name="Generic Window"
+				GUI.Window.Name="Combat Window"
 				GUI.Window.Placement="12,40,300,184"
 				GUI.Window.Style="268436484"
 			>

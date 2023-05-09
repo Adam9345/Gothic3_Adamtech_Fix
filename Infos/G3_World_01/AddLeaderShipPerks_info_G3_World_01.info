@@ -1,0 +1,18 @@
+[Info]
+Name=AddLeaderShipPerks
+SortID=02
+Owner=World_MCP
+InfoGiven=false
+ConditionType=3
+InfoType=1
+GoldCost=0
+Folder=Myrtana/Ardea_City/
+CondPlayerKnowsNot=Added LeaderPerksToPlayer
+ClearChildren=false
+Permanent=false
+InfoScript_Commands=Grant;Grant;SetGameEvent;End
+InfoScript_Entities1=player;player;;
+InfoScript_Entities2=;;;
+InfoScript_IDs1=It_Perk_Leadership_1;It_Perk_Leadership_2;Added LeaderPerksToPlayer;
+InfoScript_IDs2=1;1;;
+InfoScript_Texts=;;;

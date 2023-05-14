@@ -15882,7 +15882,7 @@
 		>
 			<window
 				GUI.ProgressBar.BarBelowTrack="false"
-				GUI.ProgressBar.Bitmap.Bar="\data\gui\icons\hud\v3\backgrounds\views\g3_hud_statusbar_progress.tga"
+				GUI.ProgressBar.Bitmap.Bar="\data\gui\icons\hud\v3\backgrounds\views\G3_HUD_View_Bar_Health.tga"
 				GUI.ProgressBar.Color.Bar="4288616467"
 				GUI.ProgressBar.Color.Track="0"
 				GUI.ProgressBar.Margin="0,0,0,0"
@@ -15893,7 +15893,7 @@
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20384"
 				GUI.Window.Name=""
-				GUI.Window.Placement="8,4,194,14"
+				GUI.Window.Placement="8,4,194,16"
 				GUI.Window.Style="268435536"
 			>
 			</window>
@@ -15918,7 +15918,7 @@
 		>
 			<window
 				GUI.ProgressBar.BarBelowTrack="false"
-				GUI.ProgressBar.Bitmap.Bar="\data\gui\icons\hud\v3\backgrounds\views\g3_hud_statusbar_progress.tga"
+				GUI.ProgressBar.Bitmap.Bar="\data\gui\icons\hud\v3\backgrounds\views\G3_HUD_View_Bar_Mana.tga"
 				GUI.ProgressBar.Color.Bar="4279005335"
 				GUI.ProgressBar.Color.Track="0"
 				GUI.ProgressBar.Margin="0,0,0,0"
@@ -15929,7 +15929,7 @@
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20383"
 				GUI.Window.Name=""
-				GUI.Window.Placement="8,4,194,14"
+				GUI.Window.Placement="8,4,194,16"
 				GUI.Window.Style="268435536"
 			>
 			</window>
@@ -15954,7 +15954,7 @@
 		>
 			<window
 				GUI.ProgressBar.BarBelowTrack="false"
-				GUI.ProgressBar.Bitmap.Bar="\data\gui\icons\hud\v3\backgrounds\views\g3_hud_statusbar_progress.tga"
+				GUI.ProgressBar.Bitmap.Bar="\data\gui\icons\hud\v3\backgrounds\views\G3_HUD_View_Bar_Stamina.tga"
 				GUI.ProgressBar.Color.Bar="4291274312"
 				GUI.ProgressBar.Color.Track="0"
 				GUI.ProgressBar.Margin="0,0,0,0"
@@ -15965,7 +15965,7 @@
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20382"
 				GUI.Window.Name=""
-				GUI.Window.Placement="8,4,194,14"
+				GUI.Window.Placement="8,4,194,16"
 				GUI.Window.Style="268435536"
 			>
 			</window>
@@ -15977,7 +15977,7 @@
 			GFC.FileHeader="ge_hud_view_bar_focus_2.h"
 			GFC.FileImplement="ge_hud_view_bar_focus_2.cpp"
 			GFC.Variable=""
-			GUI.View.Bitmap="\data\gui\icons\hud\v3\backgrounds\views\g3_hud_statusbar_back.tga"
+			GUI.View.Bitmap="\data\gui\icons\hud\v3\backgrounds\views\g3_hud_statusbar_back_focus.tga"
 			GUI.Window.Anchor="5"
 			GUI.Window.Class="View"
 			GUI.Window.Dock="0"
@@ -16102,7 +16102,7 @@
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20389"
 				GUI.Window.Name="Mana"
-				GUI.Window.Placement="16,736,218,754"
+				GUI.Window.Placement="16,734,218,754"
 				GUI.Window.Style="268435461"
 			>
 			</window>
@@ -16112,7 +16112,7 @@
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20388"
 				GUI.Window.Name="Endurance"
-				GUI.Window.Placement="16,713,218,731"
+				GUI.Window.Placement="16,711,218,731"
 				GUI.Window.Style="268435461"
 			>
 			</window>
@@ -16122,7 +16122,7 @@
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20387"
 				GUI.Window.Name="Health"
-				GUI.Window.Placement="16,690,218,708"
+				GUI.Window.Placement="16,688,218,708"
 				GUI.Window.Style="268435461"
 			>
 			</window>
@@ -16132,7 +16132,7 @@
 				GUI.Window.Dock="0"
 				GUI.Window.ID="20386"
 				GUI.Window.Name="Focus"
-				GUI.Window.Placement="411,10,612,31"
+				GUI.Window.Placement="401,10,622,31"
 				GUI.Window.Style="268435461"
 			>
 			</window>
